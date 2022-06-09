@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 
 
-namespace Course.Shared.Dtos
+namespace CourseApp.Shared.Dtos
 {
     public class ResponseDto<T>
     {

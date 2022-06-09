@@ -1,6 +1,6 @@
 ﻿
 
-namespace Course.Shared.Dtos
+namespace CourseApp.Shared.Dtos
 {
     public class NoContent
     {

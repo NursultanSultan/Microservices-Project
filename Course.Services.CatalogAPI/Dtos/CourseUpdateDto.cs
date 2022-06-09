@@ -1,6 +1,6 @@
-﻿using Course.Services.CatalogAPI.Entities;
+﻿using CourseApp.Services.CatalogAPI.Entities;
 
-namespace Course.Services.CatalogAPI.Dtos
+namespace CourseApp.Services.CatalogAPI.Dtos
 {
     public class CourseUpdateDto
     {

@@ -1,8 +1,9 @@
-﻿using Course.Services.CatalogAPI.Entities.Common;
+﻿
+using CourseApp.Services.CatalogAPI.Entities.Common;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace Course.Services.CatalogAPI.Entities
+namespace CourseApp.Services.CatalogAPI.Entities
 {
     public class Course : BaseEntity
     {

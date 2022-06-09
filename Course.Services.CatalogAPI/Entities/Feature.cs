@@ -1,4 +1,4 @@
-﻿namespace Course.Services.CatalogAPI.Entities
+﻿namespace CourseApp.Services.CatalogAPI.Entities
 {
     public class Feature
     {

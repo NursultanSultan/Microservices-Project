@@ -1,4 +1,4 @@
-﻿namespace Course.Services.CatalogAPI.Dtos
+﻿namespace CourseApp.Services.CatalogAPI.Dtos
 {
     public class CategoryCreateDto
     {
